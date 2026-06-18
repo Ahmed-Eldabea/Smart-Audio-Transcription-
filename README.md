@@ -8,7 +8,7 @@ A professional Full-Stack application designed to streamline the process of conv
 
 - **Multi-Format Ingestion:** Accepts both Audio (`.mp3`, `.wav`, `.aac`) and Video (`.mp4`, `.mov`) files.
 - **Advanced Audio Engineering:** Integrates a dedicated local script (`compressor.py`) powered by `FFmpeg` to compress heavy media files into a lightweight mono format, eliminating `503 Unavailable` timeouts.
-- **AI Transcription Core:** Powered by `Gemini 1.5 Flash` to handle multilingual outputs (Arabic & English) with high contextual precision.
+- **AI Transcription Core:** Powered by `Gemini 2.5 Flash` to handle multilingual outputs (Arabic & English) with high contextual precision.
 - **Automated Document Exporting:** Structures the raw parsed text beautifully and exports it immediately into clean Microsoft Word (`.docx`) files or high-quality PDFs via `Spire.Doc`.
 - **Modern User Experience:** Reactive React-based dashboard supporting clean interactive drag-and-drop actions.
 
