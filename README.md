@@ -2,7 +2,7 @@
 
 > **Convert your audio files to text with accuracy**
 
-A professional Full-Stack application designed to streamline the process of converting lectures, meetings, and voice notes into fully formatted documents. The project features an automated audio compression pipeline coupled with Google's advanced Gemini 1.5 Flash model for lightning-fast and highly accurate text transcription.
+A professional Full-Stack application designed to streamline the process of converting lectures, meetings, and voice notes into fully formatted documents. The project features an automated audio compression pipeline coupled with Google's advanced Gemini 2.5 Flash model for lightning-fast and highly accurate text transcription.
 
 ## ✨ Core Features
 
